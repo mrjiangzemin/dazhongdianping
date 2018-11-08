@@ -86,7 +86,7 @@ input, select, teatarea { font:12px Arial, Helvetica, sans-serif; }
 .rightCont .title .action a:hover { background:url(../images/btn05.gif) no-repeat; color:#266392; font-weight:normal;}
 .rightCont .title .first {}
 .rightCont .title a:hover, .rightCont .title .on a { background:url(../images/titlebg1.png) no-repeat; text-decoration:none; color:#fff; font-weight:700;}
-.rightCont .title span { position:absolute; width:9px; height:5px; bottom:-17px; _bottom:-27px; right:66px;}
+.rightCont .title span { position:absolute; width:9px; height:5px; bottom:-17px;  right:66px;}
 .rightCont .title a:hover span, .rightCont .title .on a span { background:url(../images/icon.png) no-repeat 0 -356px;}
 .tab1 { margin-top:5px;}
 .tab1 td{ padding:5px 0;}
